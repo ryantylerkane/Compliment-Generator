@@ -1,5 +1,5 @@
-# GrizzHacks5
-Repository for GrizzHacks 5
+# Compliment Generator
+Repository for Compliment Generator created for GrizzHacks 5 Hackathon
 
 
 ## Inspiration
